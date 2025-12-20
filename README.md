@@ -12,7 +12,7 @@ If download doesn't work, simply download the repo from code and select download
 
 ## Theme folder is sometime hidden press CTRL + H to view hidden folders
 
-First look into this folder /home/<YOUR USER NAME>/themes
+First look into this folder /home/<YOUR_USER_NAME>/themes
 
 In Linux, theme files are generally stored in one of two primary directories, depending on whether they are installed for all users or a single user. 
 System-wide themes (all users): /usr/share/themes/
