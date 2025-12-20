@@ -1,4 +1,4 @@
-# Linux Mint Ultra-Transparent Theme
+# Linux Mint Ultra-Transparent Chrome Like Theme
 
 ## Replace cinnamon.css file of your theme with following cinnamon.css file below
 
