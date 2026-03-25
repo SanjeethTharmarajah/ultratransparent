@@ -27,3 +27,27 @@ This command will output the name of the active theme (e.g., "Adwaita", "Mint-Y-
 Notes
 The ~/.themes folder is a hidden directory. To view it in your file manager, you typically need to enable "Show Hidden Files" (often done by pressing Ctrl+H).
 It is generally recommended to install custom themes in your local ~/.themes directory. Editing system-wide themes in /usr/share/themes/ requires root permissions and changes may be overwritten during a system update. 
+
+
+## Extra Windows 11 Theme
+
+
+Terminal Commands:
+-------------------------------------
+./install.sh
+
+Links:
+-------------------------------------
+
+Download links
+
+Icons: https://github.com/luisrguerra/fluent11-icon-theme
+
+-- Download Repo
+-- unzip it and open terminal in the unzipped folder and install it with ./install.sh command
+
+
+Window Theme: https://github.com/vinceliuice/Fluent-gtk-theme
+
+-- Download Repo
+-- unzip it and open terminal in the unzipped folder and install it with ./install.sh command
